@@ -49,3 +49,4 @@ def index(request):
         'categories': categories
 
     })
+    
